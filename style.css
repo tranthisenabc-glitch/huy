@@ -32,3 +32,13 @@
   background-color: lightgreen;
   float: inline-start;
 }
+.a1 {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  clear: left;
+  margin-left: -30px;
+}
+.a3 {
+  margin-left: 0px;
+}
